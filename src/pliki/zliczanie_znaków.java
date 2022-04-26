@@ -1,7 +1,9 @@
+package pliki;
 import java.io.FileNotFoundException;
 import java.io.File;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
+
 
 public class zliczanie_znaków {
     public static void main(String[] args) throws FileNotFoundException {
